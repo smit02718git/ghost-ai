@@ -4,7 +4,7 @@ Update this file whenever the current phase, active feature, or implementation s
 
 ## Current Phase
 
-- Completed: Design System
+- Completed: Editor Shell
 
 ## Current Goal
 
@@ -13,6 +13,7 @@ Update this file whenever the current phase, active feature, or implementation s
 ## Completed
 
 - Design System: Installed shadcn/ui, added components (Button, Card, Dialog, Input, Tabs, Textarea, Scrollarea), set up lib/utils.ts, and configured dark theme.
+- Editor Shell: Created base chrome components (editor-navbar.tsx, project-sidebar.tsx), with all required functionality and styling.
 
 ## In Progress
 
@@ -34,3 +35,4 @@ Update this file whenever the current phase, active feature, or implementation s
 ## Session Notes
 
 - Design system spec is defined in 01-design-system.md.
+- Editor shell spec is defined in 02-editor.md.
